@@ -12,7 +12,7 @@
         
 
         <form action="login.jsp" method="POST">
-        <table border="0">
+        <table border="1">
             <tbody>
              <tr>
                 <td>First Name</td>
